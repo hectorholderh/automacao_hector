@@ -1,6 +1,6 @@
 FROM ubuntu:22.04 as builder
 
-# Atualizando pacotes
+# Atualizando pacotess
 RUN apt update -y 
 
 # Instalar Terraform
